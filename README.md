@@ -11,3 +11,5 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
    - Devops <br/>
    - React JS
 </details>
+
+![Samba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambaba097v&show_icons=true&hide=["prs","issues","contribs"])
