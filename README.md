@@ -13,7 +13,4 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 </details>
 
 ![Samba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambaba097&show_icons=true&hide=["prs","issues","contribs"])
-<p> 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://visitor-badge.glitch.me/badge?page_id=Sambaba097.visitor-badge"/> 
-</p>
+
