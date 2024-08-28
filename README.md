@@ -5,9 +5,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <details>
  <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
    - PHP avancé <br/>
-   - PHP moderne <br/>
-   - Symfony <br/>
+   - JAVA <br/>
+   - Angular <br/>
    - Laravel <br/>
-   - Devops
-   - VueJs 3
+   - Devops <br/>
+   - React JS
 </details>
